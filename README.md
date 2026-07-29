@@ -1,6 +1,4 @@
-<div align="center">
 
-# Hi, I'm Hari Senthil 👋
 
 ### Computer Engineering Graduate | Software Developer | Embedded Systems Engineer
 
@@ -10,7 +8,7 @@ I build full-stack applications, backend systems, embedded firmware, and practic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Website](https://img.shields.io/badge/Website-BusBing.com-orange?style=flat-square)](https://busbing.com)
 
-</div>
+
 
 ## About Me
 
