@@ -1,7 +1,3 @@
-
-
-### Computer Engineering Graduate | Software Developer | Embedded Systems Engineer
-
 I build full-stack applications, backend systems, embedded firmware, and practical AI tools.
 
 [![Email](https://img.shields.io/badge/Email-harisenthil%40yahoo.com-blue?style=flat-square\&logo=gmail)](mailto:harisenthil@yahoo.com)
