@@ -3,7 +3,7 @@ I build full-stack applications, backend systems, embedded firmware, and practic
 [![Email](https://img.shields.io/badge/Email-harisenthil%40yahoo.com-blue?style=flat-square\&logo=gmail)](mailto:harisenthil@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/harisenthil1/)
 [![Website](https://img.shields.io/badge/Website-BusBing.com-orange?style=flat-square)](https://busbing.com)
-[![Views](https://visitor-badge.laobi.icu/badge?page_id=harisenthil1.harisenthil1&start_key=68)
+<img src="https://komarev.com/ghpvc/?username=harisenthil1&color=blue&style=flat&label=Profile%20Views&udge=12868" alt="Profile Views" />
 
 
 ## About Me
@@ -19,10 +19,7 @@ I build full-stack applications, backend systems, embedded firmware, and practic
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square\&logo=stmicroelectronics\&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A0E4?style=flat-square) <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harisenthil1&color=blue&style=flat&label=Profile%20Views&udge=12868" alt="Profile Views" />
-</div>
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square\&logo=stmicroelectronics\&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A0E4?style=flat-square)
 ## What I'm Working On
 
 * Production-grade Java and Spring Boot backend development
