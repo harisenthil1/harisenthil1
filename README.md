@@ -3,7 +3,7 @@ I build full-stack applications, backend systems, embedded firmware, and practic
 [![Email](https://img.shields.io/badge/Email-harisenthil%40yahoo.com-blue?style=flat-square\&logo=gmail)](mailto:harisenthil@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/harisenthil1/)
 [![Website](https://img.shields.io/badge/Website-BusBing.com-orange?style=flat-square)](https://busbing.com)
-[![Views](https://visitor-badge.laobi.icu/badge?page_id=harisenthil1.harisenthil1&start_key=68" alt="Profile Views")
+[![Views](https://visitor-badge.laobi.icu/badge?page_id=harisenthil1.harisenthil1&start_key=68)
 
 
 ## About Me
