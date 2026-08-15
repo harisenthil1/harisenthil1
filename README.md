@@ -27,3 +27,7 @@ I build full-stack applications, backend systems, embedded firmware, and practic
 * Full-stack applications with React, TypeScript, and PostgreSQL
 * AI agents using RAG, tool calling, evaluations, and human approval
 * Embedded firmware and real-time systems with STM32 and FreeRTOS
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harisenthil1&color=brightgreen&style=flat&label=Profile%20Views&udge=12868" alt="Profile Views" />
+</div>
