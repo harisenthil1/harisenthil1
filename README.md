@@ -4,6 +4,7 @@ I build full-stack applications, backend systems, embedded firmware, and practic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/harisenthil1/)
 [![Website](https://img.shields.io/badge/Website-BusBing.com-orange?style=flat-square)](https://busbing.com)
 <img src="https://komarev.com/ghpvc/?username=harisenthil1&color=blue&style=flat&label=Profile%20Views&udge=12868" alt="Profile Views" />
+![](https://hit.yhype.me/github/profile?account_id=96934076)
 
 
 ## About Me
